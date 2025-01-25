@@ -1,4 +1,5 @@
-package com.devsuperior.dslist.repositories;
+
+ package com.devsuperior.dslist.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
